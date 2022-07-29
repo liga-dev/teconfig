@@ -2,6 +2,8 @@
   "name": "@liga/tsconfig",
   "version": "0.0.0",
   "private": true,
+  "repository": "git@github-liga:liga-dev/tsconfig.git",
+  "homepage": "git@github-liga:liga-dev/tsconfig.git",
   "main": "index.js",
   "files": [
     "base.json",
